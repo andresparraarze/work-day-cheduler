@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    line-height: 2;
+    color: #880f4c;
+}
+  
+h1 {
+    font-family: 'Oswald', serif;
+    color: #01240a;
+}
+  
+textarea {
+    background: transparent;
+    border: solid 1px;
+    padding: 15px;
+    margin: 12px;
+}
+  
+.jumbotron {
+    text-align: center;
+}
+  
+.lead {
+    padding-top: 10px;
+}
+  
+.description{
+    margin: 12px;
+    padding: 14px;
+    white-space: pre-wrap;
+}
+  
+.row {
+    white-space: pre-wrap;
+    height: 78px;
+    border-top: 1px solid #0b2a3b;
+}
+  
+.hour {
+    border-right: 1px solid #353303;
+    margin: 12px;
+    padding: 11px;
+    text-align: center;
+}
+  
+.past {
+    background-color: #0e4166;
+    color: rgb(204, 12, 12);
+}
+  
+.present {
+    background-color: #578841;
+    color: rgb(145, 68, 68);
+}
+  
+.future {
+    background-color: #ac3815;
+    color: yellow;
+}
+  
+.saveBtn {
+    background-color: rgba(15, 162, 182, 0.75);
+    border: none;
+    color: #d6a9f0; 
+}
+  
+.saveBtn:hover {
+    background-color: rgb(14, 55, 109);
+}
