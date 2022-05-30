@@ -70,3 +70,10 @@ textarea {
 .saveBtn:hover {
     background-color: rgb(14, 55, 109);
 }
+
+
+.footer{
+    margin-left: 0;
+    text-align: center;
+    margin-bottom: 0;
+}
